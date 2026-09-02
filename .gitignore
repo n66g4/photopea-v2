@@ -1,0 +1,11 @@
+package/dist/
+package/.build/
+package/spk-src/target/www.photopea.com/
+package/spk-src/target/ui/images/*.png
+package/spk-src/PACKAGE_ICON*.PNG
+package/fpk-src/app/www.photopea.com/
+package/fpk-src/app/ui/images/*.png
+package/fpk-src/ICON*.PNG
+package/fpk-src/photopea.fpk
+.DS_Store
+._*

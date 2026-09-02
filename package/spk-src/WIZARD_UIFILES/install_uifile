@@ -1,0 +1,18 @@
+[
+	{
+		"step_title": "安装 Photopea Offline",
+		"items": [
+			{
+				"type": "multiselect",
+				"desc": "确认安装离线版 Photopea（端口 8887）",
+				"subitems": [
+					{
+						"key": "confirm_install",
+						"desc": "我了解这是第三方离线镜像，仅供个人/内网使用",
+						"default": true
+					}
+				]
+			}
+		]
+	}
+]

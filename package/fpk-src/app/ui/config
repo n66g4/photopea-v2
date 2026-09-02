@@ -1,0 +1,14 @@
+{
+	".url": {
+		"photopea.Application": {
+			"title": "Photopea",
+			"desc": "离线版在线 PS",
+			"icon": "images/icon_{0}.png",
+			"type": "url",
+			"protocol": "http",
+			"port": "8887",
+			"url": "/",
+			"allUsers": true
+		}
+	}
+}
